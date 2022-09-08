@@ -11,11 +11,13 @@ A full stack open source blog website supporting database operations.
 
 ## Tools
 1. CSS
-2. Node Js
-3. Express Js
-4. EJS
-5. Boostrap
-6. Mongo DB
+2. JavaScript
+3. Node Js
+4. Express Js
+5. EJS
+6. Boostrap
+7. Mongo DB
+8. Mongoose
 ## Dependencies
 1. body-parser (Vesion ^1.20.0)
 2. ejs (Version ^3.1.8)
