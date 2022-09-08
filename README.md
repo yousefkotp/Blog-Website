@@ -1,5 +1,5 @@
 # Blog Website
-
+A full stack open source blog website supporting database operations.
 
 ## Table of Content
 * [Table of Content](#table-of-content)
