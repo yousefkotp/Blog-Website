@@ -7,7 +7,7 @@ A full stack open source blog website supporting database operations.
   * [Dependencies](#dependencies)
   * [Database Schemas](#database-schemas)
   * [Deployment](#deployment)
-  * [Author](#author
+  * [Author](#author)
 
 ## Tools
 1. CSS
